@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-core
+langchain-groq
+langchain-community
+pyyaml
+fastapi-middleware
+ruamel.yaml
+beautifulsoup4
+dotenv
+python-logging-loki
